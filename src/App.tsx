@@ -134,7 +134,7 @@ function App() {
       {/* Card central com transparência */}
       <div className="backdrop-blur-md bg-white/10 border border-white/20 rounded-xl shadow-lg p-10 flex flex-col items-center my-24">
         {/* Nome com efeito de digitação */}
-        <h1 className="text-5xl md:text-7xl font-mono font-bold text-green-400 mb-4 drop-shadow-[0_0_10px_#22c55e]">
+        <h1 className="text-2xl md:text-7xl font-mono font-bold text-green-400 mb-4 drop-shadow-[0_0_10px_#22c55e]">
           <Typewriter
             words={["Gabriel Pinto Andrade"]}
             loop={true}
