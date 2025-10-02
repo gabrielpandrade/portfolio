@@ -96,7 +96,7 @@ function Navbar() {
         <span className="text-green-400 font-mono font-bold text-xl">
           Gabriel Andrade
         </span>
-        <div className="space-x-6 flex items-center">
+        <div className="space-x-6 md:flex items-center hidden">
           <a
             href="#sobre"
             className="text-white/80 hover:text-green-400 font-mono transition-colors"
